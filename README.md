@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/chari-hard">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chari-hard&layout=compact&theme=transparent"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chari-hard&show_icons=true&theme=transparent"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chari-hard&layout=compact&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chari-hard&show_icons=true&theme=highcontrast"/>
 </div>
     
 <div style="display: inline_block"><br>
