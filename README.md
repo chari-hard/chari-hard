@@ -1,10 +1,4 @@
-## Bem-vindo(a) ao meu perfil😁
-
- <div>
-   <a href="https://github.com/chari-hard">
-   <img border="none" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chari-hard&layout=compact&theme=highcontrast"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chari-hard&show_icons=true&theme=highcontrast"/>
-</div>
+## Hello world...
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
